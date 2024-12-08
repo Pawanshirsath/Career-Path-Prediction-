@@ -23,7 +23,7 @@ Matplotlib/Seaborn
 How to Use
 Clone the Repository:
 
-git clone https://github.com/your-username/student-placement-prediction.git  
+git clone https://github.com/your-username/student-placement-prediction-.git  
 cd student-placement-prediction  
 Install Dependencies:
 Install required Python libraries:
